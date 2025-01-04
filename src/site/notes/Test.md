@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/test/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Test","permalink":"/Test/","tags":["gardenEntry"]}
 ---
 

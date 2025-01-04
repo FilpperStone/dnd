@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misteries-of-no-man-s-land/soldier-s-journal/armi/granate/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Granate","permalink":"/Soldier's Journal/Armi/Granate/","tags":["gardenEntry"]}
 ---
 
 Piccoli esplosivi personali impiegati in vari campi, dalla difesa all'assalto. Possono essere sia a frammentazione che altamente esplosive. 

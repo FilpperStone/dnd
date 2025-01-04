@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misteries-of-no-man-s-land/soldier-s-journal/armi/mitragliatrici/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Mitratrici","permalink":"/Soldier's Journal/Armi/Mitratrici/","tags":["gardenEntry"]}
 ---
 
 
