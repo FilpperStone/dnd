@@ -2,8 +2,8 @@
 {"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Pistole","permalink":"/Soldier's Journal/Armi/Pistole/","tags":["gardenEntry"]}
 ---
 
-Le pistole sono l'arma [[Leggera\|Leggera]] per antonomasia, piccole e compatte, sono le armi predilette per la difesa personale
-## [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]]
+ Le pistole sono l'arma [[Leggera\|Leggera]] per antonomasia, piccole e compatte, sono le armi predilette per la difesa personale
+# [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]]
 ### C18 Maus
 Pistola semiautomatica di dimensioni modeste e alto rinculo, rateo lento, indicata per un tiro a lunga distanza, caricatore interno da 10 colpi(2 colpi per turno, un’azione bonus per ricaricare)
 Keyword:
