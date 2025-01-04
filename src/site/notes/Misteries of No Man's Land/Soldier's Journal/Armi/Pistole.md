@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Pistole","permalink":"/Soldier's Journal/Armi/Pistole/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Pistole","permalink":"/Pistole/","tags":["gardenEntry"]}
 ---
 
  Le pistole sono l'arma [[Leggera\|Leggera]] per antonomasia, piccole e compatte, sono le armi predilette per la difesa personale

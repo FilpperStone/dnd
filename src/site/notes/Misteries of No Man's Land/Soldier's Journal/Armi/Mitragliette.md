@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Mitragliette","permalink":"/Soldier's Journal/Armi/Mitragliette/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Mitragliette","permalink":"/Mitragliette/","tags":["gardenEntry"]}
 ---
 
 Armi [[Leggera\|Leggere]] ideate per sopperire alla mancanza di armi automatiche di piccolo calibro. Piccole ed affidabili sono perfette per i corpi d'assalto

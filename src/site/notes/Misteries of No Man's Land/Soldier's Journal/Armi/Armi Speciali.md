@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Armi Speciali","permalink":"/Soldier's Journal/Armi/Armi Speciali/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Armi Speciali","permalink":"/Armi Speciali/","tags":["gardenEntry"]}
 ---
 
 Le Armi Speciali sono armi con prestazioni straordinarie, esse sono di qualsiasi tipo e spesso sono ottenute dalla collaborazione di più nazioni.

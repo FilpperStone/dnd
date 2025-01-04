@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Mitratrici","permalink":"/Soldier's Journal/Armi/Mitratrici/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Mitragliatrici","permalink":"/Mitragliatrici/","tags":["gardenEntry"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Fucili","permalink":"/Soldier's Journal/Armi/Fucili/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Fucili","permalink":"/Fucili/","tags":["gardenEntry"]}
 ---
 
 I fucili sono armi [[Misteries of No Man's Land/Soldier's Journal/Meccaniche/Proprietà delle Armi#Media\|Medie]] per lo più ideate per la fanteria semplice e quindi semplici da operare. Possono essere a [[Misteries of No Man's Land/Soldier's Journal/Meccaniche/Proprietà delle Armi#Bolt-Action\|Bolt-Action]], [[Misteries of No Man's Land/Soldier's Journal/Meccaniche/Proprietà delle Armi#Pump-Action\|Pump-Action]], [[Misteries of No Man's Land/Soldier's Journal/Meccaniche/Proprietà delle Armi#Semiautomatica\|Semiautomatiche]] o [[Misteries of No Man's Land/Soldier's Journal/Meccaniche/Proprietà delle Armi#Automatica\|Automatiche]].

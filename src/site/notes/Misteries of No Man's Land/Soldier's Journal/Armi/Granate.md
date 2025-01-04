@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Granate","permalink":"/Soldier's Journal/Armi/Granate/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Granate","permalink":"/Granate/","tags":["gardenEntry"]}
 ---
 
 Piccoli esplosivi personali impiegati in vari campi, dalla difesa all'assalto. Possono essere sia a frammentazione che altamente esplosive. 
