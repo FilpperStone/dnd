@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Pistolee pistole sono l'arma [[Leggera\|Leggera]] per antonomasia, piccole e compatte, sono le armi predilette per la difesa personale","permalink":"/Soldier's Journal/Armi/Pistolee pistole sono l'arma [[Leggera\|Leggera]] per antonomasia, piccole e compatte, sono le armi predilette per la difesa personale/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Soldier's Journal/Armi/Pistole","permalink":"/Soldier's Journal/Armi/Pistole/","tags":["gardenEntry"]}
 ---
 
+Le pistole sono l'arma [[Leggera\|Leggera]] per antonomasia, piccole e compatte, sono le armi predilette per la difesa personale
 ## [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]]
 ### C18 Maus
 Pistola semiautomatica di dimensioni modeste e alto rinculo, rateo lento, indicata per un tiro a lunga distanza, caricatore interno da 10 colpi(2 colpi per turno, un’azione bonus per ricaricare)
 Keyword:
-	[[Misteries of No Man's Land/Soldier's Journal/Armi/Pistole\|Pistola]], [[Leggera]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]], [[Industria avanzata\|Industria avanzata]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Impero Centrale\|Impero Centrale]]
+	[[Misteries of No Man's Land/Soldier's Journal/Armi/Pistole\|Pistola]], [[Leggera\|Leggera]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]], [[Industria avanzata\|Industria avanzata]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Impero Centrale\|Impero Centrale]]
 ### P98 Kaiser
 Pistola semiautomatica dalle dimensioni contenute con poco rinculo e cadenza media indicato per qualsiasi soldato, caricatore esterno da 8 colpi(3 colpi per turno, ricaricabile fuori dal proprio turno)
 Keyword:
-	[[Misteries of No Man's Land/Soldier's Journal/Armi/Pistole\|Pistola]], [[Ultimo Sforzo\|Ultimo Sforzo]], [[Leggera]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]], [[Industria avanzata\|Industria avanzata]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Impero d’Oriente\|Impero d’Oriente]]
+	[[Misteries of No Man's Land/Soldier's Journal/Armi/Pistole\|Pistola]], [[Ultimo Sforzo\|Ultimo Sforzo]], [[Leggera\|Leggera]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]], [[Industria avanzata\|Industria avanzata]], [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Impero d’Oriente\|Impero d’Oriente]]
 ## [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Fremspring\|Fremspring]]
 ### Berghen-Yarn 1911
 [[Misteries of No Man's Land/Soldier's Journal/Armi/Pistole\|Pistola semiautomatica]] con uno dei primi sistemi di autocaricamento, prende il meglio della [[C18 Maus\|C18 Maus]] e della [[P98 Kaiser\|P98 Kaiser]], alto rateo e caricatore esterno da 10 colpi (3 colpi per turno, ricaricabile fuori dal proprio turno) 
