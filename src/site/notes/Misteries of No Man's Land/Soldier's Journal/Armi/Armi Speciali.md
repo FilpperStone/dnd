@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"armi speciali","permalink":"/armi speciali/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Misteries of No Man's Land\\Soldier's Journal\\Armi\\armi speciali","permalink":"/Misteries of No Man's Land\\Soldier's Journal\\Armi\\armi speciali/","tags":["gardenEntry"]}
 ---
 
 Le Armi Speciali sono armi con prestazioni straordinarie, esse sono di qualsiasi tipo e spesso sono ottenute dalla collaborazione di più nazioni.
