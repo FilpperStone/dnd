@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dispense/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"dispense","permalink":"/dispense/","tags":["gardenEntry"]}
 ---
 
 ### **RANGER**
