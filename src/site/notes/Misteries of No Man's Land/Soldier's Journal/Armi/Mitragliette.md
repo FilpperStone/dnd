@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Mitragliette","permalink":"/Mitragliette/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/misteries-of-no-man-s-land/soldier-s-journal/armi/mitragliette/","tags":["gardenEntry"]}
 ---
 
 Armi [[Leggera\|Leggere]] ideate per sopperire alla mancanza di armi automatiche di piccolo calibro. Piccole ed affidabili sono perfette per i corpi d'assalto
