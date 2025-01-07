@@ -268,7 +268,13 @@ module.exports = function (eleventyConfig) {
       };
     })
     .use(userMarkdownSetup);
-
+  eleventyConfig.addCollection("notes", (collectionApi) => {
+    collectionApi.getFilteredByGlob("./src/site/notes/**/*.md").forEach((item) => {
+      console.log("Input Path:", item.inputPath);
+      console.log("Output Path:", item.outputPath);
+      console.log("Permalink:", item.data.permalink);
+    });
+  });
   eleventyConfig.setLibrary("md", markdownLib);
 
   eleventyConfig.addFilter("isoDate", function (date) {
