@@ -102,6 +102,7 @@ module.exports = function (eleventyConfig) {
     html: true,
     linkify: true,
   })
+  
     .use(require("markdown-it-anchor"), {
       slugify: headerToId,
     })
@@ -403,7 +404,13 @@ module.exports = function (eleventyConfig) {
         blockquote.innerHTML = `${titleDiv}${contentDiv}`;
       }
     };
-
+    eleventyConfig.on("afterBuild", () => {
+      console.log("Permalink generati:");
+      const collections = eleventyConfig.collections.notes || [];
+      collections.forEach((item) => {
+        console.log(item.inputPath, "->", item.data.permalink);
+      });
+    });
     transformCalloutBlocks();
 
     return str && parsed.innerHTML;
