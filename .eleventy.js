@@ -81,7 +81,9 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(pluginRss);
-
+  eleventyConfig.addFilter("jsonify", function (value) {
+    return JSON.stringify(value);
+  });
   userEleventySetup(eleventyConfig);
 
   return {
