@@ -28,4 +28,5 @@ Se il Soldato si trova in una trincea ha vantaggio e per colpire con il fucile m
 ## Sete di Vendetta
 Se il Soldato è piagato dalla vendetta se non si vendica di un torto subito perde un punto costituzione a fine sessione.
 ## Visione Termica {Nemici}
+La Visione termica permette di vedere nello spettro infrarosso specificatamente il tipo di nemico tra le parentesi graffe.
 #Pubblico
