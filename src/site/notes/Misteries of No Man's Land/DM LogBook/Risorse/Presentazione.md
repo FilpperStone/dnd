@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/misteries-of-no-man-s-land/dm-log-book/risorse/presentazione/","tags":["gardenEntry"]}
+---
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Epoca Presente
+Corre l’anno 17 D.M. (Dopo [[Misteries of No Man's Land/DM LogBook/Lore/Eventi/Mimic\|Mimic]]) la Grande Guerra, così la chiamano, infuria da ormai 3 anni dopo un crescendo di tensioni l’[[Misteries of No Man's Land/Soldier's Journal/Nazioni/Impero Centrale\|Impero Centrale]] e [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Krieg\|Krieg]], alleate dell’[[Misteries of No Man's Land/Soldier's Journal/Nazioni/Impero d’Oriente\|Impero d’Oriente]], dichiararono guerra alle [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Terre Bianche\|Terre Bianche]] che coinvolse i suoi alleati il [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Regno di Charley\|Regno di Charley]] e la [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Gaulia\|Gaulia]], la guerra durò più del previsto diventando una guerra di trincea e logoramento, è inoltre la prima guerra moderna ed industriale piena di sperimentazioni tra [[Misteries of No Man's Land/DM LogBook/Lore/Tecnologia/Navi di Terra\|Navi di Terra]] e [[Misteries of No Man's Land/DM LogBook/Lore/Tecnologia/Orniplani/Orniplani\|Orniplani]], il campo di battaglia è completamente diverso dall’[[Misteries of No Man's Land/DM LogBook/Epoche#Epoca del Vapore\|Epoca del Vapore]]. Arrivando ad Oggi due anni fa pure il regno di [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Caesaria\|Caesaria]] si unì al conflitto grazie alle allettanti proposte Charleyane ben più allettanti di quelle Centrali, l’Impero di Krieg ha sviluppato una nuova tattica chiamata Blitzkrieg mentre a causa di danni economici si risveglia anche io colosso dell’[[Misteries of No Man's Land/Soldier's Journal/Nazioni/Unione Occidentale\|Unione Occidentale]] e nel frattempo Le [[Misteries of No Man's Land/Soldier's Journal/Nazioni/Terre Bianche\|Terre Bianche]] iniziano a presentare segni di rivoluzioni interne e perciò un’imminente ritirata dal conflitto Globale. Tutti questi eventi accompagnati da un’evento che stravolse il mondo: l’arrivo del [[Misteries of No Man's Land/DM LogBook/Lore/Eventi/Mimic\|Mimic]], quello che sembrerebbe una statua con le sembianze di un [[Misteries of No Man's Land/DM LogBook/Lore/Eventi/Mimic\|Mimic]] e sotto di esso un bizzarro Goblin sempre pietrificato, inizialmente non si è data molta cura alla Venuta ma dopo un solo anno l’intero villaggio era diventata una [[Misteries of No Man's Land/DM LogBook/Lore/Materiali/Terra di Pietra\|Terra di Pietra]] che anno per anno si espanse sempre di più oggi è uno dei teatri in cui si combatte questo massacro. Benvenuti nella Terra di Nessuno
+
+</div></div>
+
+Questa è un'ambientazione basata su una versione fantasy della Grande Guerra. Riprende elementi da vari media e cultura pop, e perciò l'accuratezza storica non è totale ai fini di intrattenimento.
+Nel [[Il Continente\|Continente]], l'equivalente dell'Europa, i giocatori potranno immergersi in un'avventura scegliendo se essere dei semplici soldati qualunque, o se diventare nuovi eroi, prendendo in mano le redini della guerra. ssssss
