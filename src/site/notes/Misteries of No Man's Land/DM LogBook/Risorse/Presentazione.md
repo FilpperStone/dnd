@@ -14,4 +14,4 @@ Corre l’anno 17 D.M. (Dopo [[Misteries of No Man's Land/DM LogBook/Lore/Eventi
 </div></div>
 
 Questa è un'ambientazione basata su una versione fantasy della Grande Guerra. Riprende elementi da vari media e cultura pop, e perciò l'accuratezza storica non è totale ai fini di intrattenimento.
-Nel [[Il Continente\|Continente]], l'equivalente dell'Europa, i giocatori potranno immergersi in un'avventura scegliendo se essere dei semplici soldati qualunque, o se diventare nuovi eroi, prendendo in mano le redini della guerra. ssssss
+Nel [[Il Continente\|Continente]], l'equivalente dell'Europa, i giocatori potranno immergersi in un'avventura scegliendo se essere dei semplici soldati qualunque, o se diventare nuovi eroi, prendendo in mano le redini della guerra. 
